@@ -3,13 +3,15 @@ import './style.scss';
 import Board from './Components/Board';
 
 function App() {
- 
+
+  
 
   return (
     
       <div className='app' >
         <Board/>
       </div>
+      
       
     
   )
